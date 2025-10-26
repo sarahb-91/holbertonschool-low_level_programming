@@ -18,3 +18,4 @@ int print_last_digit(int n)
 
 	return (last_digit);
 }
+
